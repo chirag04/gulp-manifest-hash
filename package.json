@@ -1,8 +1,8 @@
 {
-  "name": "gulp-manifest",
+  "name": "gulp-manifest-hash",
   "description": "generate manifest using gulp",
   "version": "0.0.1",
-  "homepage": "https://github.com/chirag04/gulp-manifest",
+  "homepage": "https://github.com/chirag04/gulp-manifest-hash",
   "author": {
     "name": "Chirag Jain",
     "email": "jain_chirag04@yahoo.com"
@@ -15,6 +15,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/chirag04/gulp-manifest.git"
+    "url": "git://github.com/chirag04/gulp-manifest-hash.git"
   }
 }
