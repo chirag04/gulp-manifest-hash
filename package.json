@@ -1,0 +1,20 @@
+{
+  "name": "gulp-manifest",
+  "description": "generate manifest using gulp",
+  "version": "0.0.1",
+  "homepage": "https://github.com/chirag04/gulp-manifest",
+  "author": {
+    "name": "Chirag Jain",
+    "email": "jain_chirag04@yahoo.com"
+  },
+  "dependencies": {
+    "through2": "*"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chirag04/gulp-manifest.git"
+  }
+}
